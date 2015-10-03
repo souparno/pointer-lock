@@ -1,0 +1,22 @@
+{
+  "name": "pointer-lock",
+  "version": "0.0.0",
+  "homepage": "https://github.com/souparno/pointer-lock",
+  "authors": [
+    "souparno <souparno.majumder@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
